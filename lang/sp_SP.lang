@@ -23,7 +23,7 @@ id: Disable sleep timer
 msg: Desactivar temporizador de apagado
 
 id: Exit %s
-# Missing translation
+# Salir
 msg: 
 
 id: Go to Home screen
@@ -33,7 +33,7 @@ id: Hide system info
 msg: Ocultar información del sistema
 
 id: Master volume
-# Missing translation
+# Volumen maestro
 msg: 
 
 id: Navigation
@@ -64,7 +64,7 @@ id: Time until sleep
 msg: Tiempo para apagar
 
 id: dB
-# Missing translation
+# Desibeles
 msg: 
 
 id: min
@@ -159,7 +159,7 @@ id: %d kb/s
 msg: 
 
 id: Bitrate:
-# Missing translation
+# Birate
 msg: 
 
 #
@@ -250,7 +250,7 @@ msg: Fecha:
 # ./glwskins/default/pages/iteminfo/plugin.view
 #
 id: %s %s or newer is required
-# Missing translation
+# Requerir nuevo
 msg: 
 
 id: Author: 
@@ -330,11 +330,11 @@ msg: Actualizar
 # ./glwskins/default/pages/openerror.view
 #
 id: Unable to open %s
-# Missing translation
+# No se puede abrir %s
 msg: 
 
 id: resource
-# Missing translation
+# Recurso
 msg: 
 
 #
@@ -353,7 +353,7 @@ msg: Pausado
 # ./glwskins/default/pages/upgrade.view
 #
 id: %s is up to date
-# Missing translation
+# Hasta la fecha
 msg: 
 
 id: An error occured during download
@@ -393,7 +393,7 @@ id: Patching %s
 msg: Reparando %s
 
 id: Restarting %s in %d seconds...
-# Missing translation
+# Reinicio %s en %d segundos
 msg: 
 
 id: Retry...
@@ -416,7 +416,7 @@ id: A/V diff:
 msg: 
 
 id: Audio codec:
-# Missing translation
+# Codec de sonido
 msg: 
 
 id: Audio queue len:
@@ -424,14 +424,14 @@ id: Audio queue len:
 msg: 
 
 id: Audio volume adjustment: %d dB
-# Missing translation
+# Adjustador de volumen de audio
 msg: 
 
 id: CPU is too slow to decode this video
 msg: CPU demasiado lento para decodificar video
 
 id: Download speed:
-# Missing translation
+# Velocidad de descarga
 msg: 
 
 id: Packet buffer:
@@ -454,19 +454,19 @@ id: Remote queue len:
 msg: 
 
 id: Source:
-# Missing translation
+# Fuente
 msg: 
 
 id: Video bitrate:
-# Missing translation
+# Birate de video
 msg: 
 
 id: Video codec:
-# Missing translation
+# Codec de video
 msg: 
 
 id: Video decode time:
-# Missing translation
+# Tiempo de codec de video
 msg: 
 
 id: Video queue len:
@@ -501,11 +501,11 @@ msg: Nombre de Usuario
 # ./glwskins/default/popups/resume.view
 #
 id: No, Start over
-# Missing translation
+# No, empiese de nuevo
 msg: 
 
 id: Resume %s from %s
-# Missing translation
+# Resumir de
 msg: 
 
 #
@@ -601,7 +601,7 @@ msg: No se puede consultar Cell codec. Error 0x%x
 # ./src/arch/rpi/rpi_audio.c
 #
 id: 8 Channel PCM
-# Missing translation
+# Canales de 8 PCM
 msg: 
 
 id: AC3 Pass-Through
@@ -615,7 +615,7 @@ id: Audio output port
 msg: Puerto de salida de audio
 
 id: Autodetect
-# Missing translation
+# Detección Automática
 msg: 
 
 id: DTS Pass-Through
@@ -629,14 +629,14 @@ id: Off
 msg: Inactivo
 
 id: On
-# Missing translation
+# Prendido
 msg: 
 
 #
 # ./src/arch/rpi/rpi_cec.c
 #
 id: Configure communications with your TV
-# Missing translation
+# Configure las comunicaciones con el televisor
 msg: 
 
 id: Consumer Electronics Control
@@ -706,11 +706,11 @@ msg: Tipo de señal de prueba
 # ./src/backend/bittorrent/bt_backend.c
 #
 id: No files in torrent
-# Missing translation
+# ningun archivo en el torrent
 msg: 
 
 id: Unable to open torrent: %s
-# Missing translation
+# No se puede abrir torrente
 msg: 
 
 #
